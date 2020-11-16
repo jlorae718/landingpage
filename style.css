@@ -1,0 +1,122 @@
+
+h1{
+    background-color: #aeba9c;
+    margin: 0;
+    font-family: tangerine;
+}
+
+.container{
+    background-color:#aeba9c;
+    padding:0%;
+}
+ul{
+font-family: cursive;
+list-style-type:none;
+margin: 0;
+float: right;
+
+}
+
+
+li {
+    display: inline-block;
+}
+
+
+#beautiful{
+    text-align: center;
+    padding:0%;
+    padding-bottom: 0%;
+    font-family: tangerine;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+#email{
+    text-align: center;
+    font-family: tangerine;
+    font-size: 25px;
+    font-weight:normal ;
+}
+#reliable{
+    text-align: left;
+    padding-left: 30%;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    text-align: left;
+    padding-left: 30%;
+    font-size: 30px;
+    font-weight: normal;
+}
+#highquality{
+    text-align: left;
+    padding-left: 30%;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+#moneyback{
+    text-align: left;
+    padding-left: 30%;
+    font-size: 40px;
+    font-weight: bold;
+}
+#intro {
+    background:url(flower-4865379_1920.png) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 10%;
+}
+{
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: tangerine;
+    font-size: 30px;
+  }
+  
+  /* Float three columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    height: 50%;
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  /*.row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 50px;
+    margin-left: auto;
+    text-align: center;
+    background-color: #aeba9c;
+
+  }
+  
+  /* Responsive columns - one column layout (vertical) on small screens */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .footer {
+    background-color: #aeba9c;
+  }
